@@ -27,6 +27,4 @@ Sebelum memulai, pastikan Anda sudah menginstal:
 
 Setelah semua dependensi terinstal dan konfigurasi selesai, Anda dapat menjalankan pengujian menggunakan perintah berikut:
 
-    ```bash
     npm run wdio
-    ```
